@@ -6,6 +6,9 @@
   "author": "Seldon Stone <sel@syssu.com>",
   "license": "OSL-3.0",
   "private": false,
+  "scripts": {
+    "test": "cypress run"
+  },
   "devDependencies": {
     "cypress": "^13.3.2",
     "typescript": "^5.2.2"
