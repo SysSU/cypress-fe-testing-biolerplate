@@ -6,6 +6,9 @@
   "author": "Seldon Stone <sel@syssu.com>",
   "license": "OSL-3.0",
   "private": false,
+  "engines": {
+    "node" : ">=18.0.0 <19.0.0"
+  },
   "scripts": {
     "lint": "eslint ./cypress --ext .ts,.js",
     "test": "cypress run"
