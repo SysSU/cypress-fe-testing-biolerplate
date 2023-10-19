@@ -5,5 +5,8 @@
   "repository": "https://github.com/SysSU/cypress-fe-testing-biolerplate.git",
   "author": "Seldon Stone <sel@syssu.com>",
   "license": "OSL",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "cypress": "^13.3.2"
+  }
 }
