@@ -1,0 +1,9 @@
+{
+  "name": "cypress-fe-testing-biolerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SysSU/cypress-fe-testing-biolerplate.git",
+  "author": "Seldon Stone <sel@syssu.com>",
+  "license": "OSL",
+  "private": false
+}
