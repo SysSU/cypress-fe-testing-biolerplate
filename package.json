@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": "https://github.com/SysSU/cypress-fe-testing-biolerplate.git",
   "author": "Seldon Stone <sel@syssu.com>",
-  "license": "OSL",
+  "license": "OSL-3.0",
   "private": false,
   "devDependencies": {
     "cypress": "^13.3.2",
